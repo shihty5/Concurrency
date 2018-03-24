@@ -1,4 +1,4 @@
-package com.peter.concurrency.example;
+package com.peter.concurrency.count;
 
 import com.peter.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;

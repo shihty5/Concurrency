@@ -42,7 +42,7 @@ public class ConcurrencyTest {
         System.out.println("count: " + count);
     }
 
-    private static void add() {
+    private synchronized static void add() {
         count++;
     }
 }
