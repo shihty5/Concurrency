@@ -1,4 +1,4 @@
-package com.peter.concurrency.designpattern.proxy;
+package com.peter.designpattern.proxy;
 
 public class UserMgrImpl implements UserMgr {
     @Override

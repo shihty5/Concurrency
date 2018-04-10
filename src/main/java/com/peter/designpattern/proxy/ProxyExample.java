@@ -1,4 +1,4 @@
-package com.peter.concurrency.designpattern.proxy;
+package com.peter.designpattern.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
